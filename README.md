@@ -47,7 +47,7 @@ Let me introduce myself briefly below!
 ## 💻 Tech Stack
 
 - **Languages**: Python, JavaScript, HTML/CSS, Shell scripting  
-- **Mobile**: Android (Kotlin)  
+- **Mobile**: Android (Kotlin), React Native, Flutter  
 - **AI & ML**: GPT-based generation, real-time API integration, Vertex AI  
 - **Game Dev**: Godot Engine, GDScript, scene structure design
 
