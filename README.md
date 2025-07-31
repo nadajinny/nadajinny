@@ -61,7 +61,7 @@
 ## 📫 Get in Touch
 
 - 📧 Email: `jinsun23007@gmail.com`  
-- 🌐 Blog / Portfolio: [https://blog.naver.com/na_dag]  
+- 🌐 Blog / Portfolio: [https://velog.io/@nadajinny/posts]
 - 💼 Twitter / LinkedIn: []  
 
 ---
