@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadajinny&show_icons=true&theme=rose)
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=nadajinny&utm_content=farm">
 <img
   src="https://render.gitanimals.org/farms/nadajinny"
