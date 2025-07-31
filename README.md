@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm nadajinny!
 
 > 🎯 BS-MS Integrated Student @ JBNU | AI · Mobile · Game Developer  
-> A self-driven developer building intelligent and creative applications that connect **AI × Mobile × Travel × Games**.
+> A self-driven developer building intelligent and creative applications that connect **AI × Mobile × Web × Games**.
 
 ---
 
