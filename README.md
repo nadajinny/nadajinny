@@ -12,7 +12,7 @@
 
 - 🧪 **Undergraduate Research Assistant @ MacsLab (Medical Artificial intelligence and Computational Science Laboratory)**  
   _January 2025 – Present_
-  Lab site : [https://jbnu.macs.or.kr]
+  Lab site : [https://jbnu.macs.or.kr]<br>
   Developed a real-time AI-powered mobile application during Spring 2025.  
   Responsible for front-end/mobile implementation and integration of live data sources.  
   Currently assisting with applied AI research and system development.
