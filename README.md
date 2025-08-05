@@ -7,11 +7,12 @@
 
 ## 📚 Education & Research
 
-- 🎓 **B.S. in Computer and Artificial Intelligence Engineering**, JBNU  
+- 🎓 **B.S. in Computer Science and Artificial Intelligence Engineering**, JBNU  
   _March 2023 – August 2026 (expected)_
 
-- 🧪 **Undergraduate Research Assistant @ MacsLab (Machine Intelligence and Cognitive Systems Lab)**  
-  _January 2025 – Present_  
+- 🧪 **Undergraduate Research Assistant @ MacsLab (Medical Artificial intelligence and Computational Science Laboratory)**  
+  _January 2025 – Present_
+  Lab site : [https://jbnu.macs.or.kr]
   Developed a real-time AI-powered mobile application during Spring 2025.  
   Responsible for front-end/mobile implementation and integration of live data sources.  
   Currently assisting with applied AI research and system development.
