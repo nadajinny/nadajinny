@@ -75,11 +75,11 @@
 
 ---
 
+
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=nadajinny&utm_content=farm">
-  <img
-    src="https://render.gitanimals.org/farms/nadajinny"
-    width="600"
-    height="300"
-    alt="GitAnimals Badge"
-  />
+<img
+  src="https://render.gitanimals.org/farms/nadajinny"
+  width="600"
+  height="300"
+/>
 </a>
