@@ -53,11 +53,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![nadajinny's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadajinny)(https://github.com/nadajinny/github-readme-stats)
----
-
 ## 📫 Get in Touch
 
 - 📧 Email: `jinsun23007@gmail.com`  
