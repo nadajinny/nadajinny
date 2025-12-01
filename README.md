@@ -55,8 +55,7 @@
 
 ## 📈 GitHub Stats
 
-![nadajinny's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadajinny&show_icons=true&theme=rose)
-
+[![nadajinny's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadajinny)](https://github.com/nadajinny/github-readme-stats)
 ---
 
 ## 📫 Get in Touch
