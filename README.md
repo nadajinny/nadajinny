@@ -19,7 +19,6 @@ PORTFOLIO : [nadajinny's notion](https://erratic-radio-b5b.notion.site/ndjinny-2
 
 <table>
   <thead style="display:none;">
-    <tr><th></th><th></th></tr>
   </thead>
   <tbody>
     <tr><td>Front-End</td>
