@@ -16,29 +16,27 @@ PORTFOLIO : [nadajinny's notion](https://erratic-radio-b5b.notion.site/ndjinny-2
 - 꾸준히 성장하며 나아가는 자세를 가장 중요하게 생각합니다.
 
 ## 🛠 Tech Stacks
-### Front-End
-- React.js
-- TypeScript
 
-### Mobile
-- Android Studio
-- Flutter
-- React Native
-- Swift
+<table>
+  <thead style="display:none;">
+    <tr><th></th><th></th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Front-End</td>
+    <td>Mobile</td>
+    <td>Back-End</td>
+    <td>DevOps / Database</td>
+    <td>Collaboration & Tools</td>
+</tr>
+    <tr><td>• React.js <br> • TypeScript</td>
+    <td>• Android Studio <br> • Flutter <br> • React Native <br> • Swift</td>
+    <td>• Node.js <br> • Spring</td>
+    <td>• MySQL <br> • NoSQL</td>
+    <td>• Slack <br> • IntelliJ, VS Code <br> • Figma <br> • Git, GitHub</td>
+</tr>
+  </tbody>
+</table>
 
-### Back-End
-- Node.js
-- Spring
-
-### DevOps / Database
-- MySQL
-- NoSQL
-
-### Collaboration & Tools
-- Slack
-- IntelliJ, VS Code
-- Figma
-- Git, GitHub
 
 ## 🚀 Projects
 ### 📌 Tagmoa (2025.11~)
@@ -48,7 +46,7 @@ PORTFOLIO : [nadajinny's notion](https://erratic-radio-b5b.notion.site/ndjinny-2
 - 배포: [Android](https://play.google.com/store/apps/details?id=com.ndjinny.tagmoa&hl=ko) · [Web](https://tagmoa-6ce31.web.app/)
 - GitHub: [tagmoa](https://github.com/nadajinny/tagmoa) · [tagmoa_website](https://github.com/nadajinny/tagmoa_website)
 
-### ⭐Updates coming soon!⭐
+~ ⭐Updates coming soon!⭐
 
 ## 🏆 Achievements
 | 수상 | 대회 | 날짜 |
@@ -61,6 +59,7 @@ PORTFOLIO : [nadajinny's notion](https://erratic-radio-b5b.notion.site/ndjinny-2
 | 🏅 우수상 (한국전기안전공사) | 제3회 전북청년 빅데이터 경진대회 | 2025.12 |
 
 ## 💼 Experiences
+
 ### 📍 모바일 프로그래밍 TA (2025.03~2025.08)
 - 실습 중심 모바일 프로그래밍 강의 보조
 - 예제 코드 제작 및 제출 과제 채점
