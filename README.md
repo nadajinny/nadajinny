@@ -3,20 +3,18 @@
 **Front-End & Mobile Developer | 끊임없이 도전하며 스스로 기회를 만드는 개발자**
 
 ## 📫 Contact & Channels
-___
 - Email ｜ jinsun23007@gmail.com
 - GitHub ｜ https://github.com/nadajinny
 - Blog ｜ https://velog.io/@nadajinny/posts
 
 ## 💻 About Me — “아이디어가 생기면 직접 만들고 배웁니다.”
-___
 - 사용자가 실제로 사용할 수 있는 서비스로 완성될 때까지 끝까지 밀고 나가는 개발자입니다.
 - Android · Flutter · Web 등 다양한 플랫폼을 직접 구축하고 배포한 경험을 가지고 있습니다.
 - 사용자 경험 개선과 운영·배포까지 고려한 End-to-End 개발자를 목표로 합니다.
 - 피드백을 두려워하지 않고, 더 나은 서비스를 만들기 위해 지속적으로 개선합니다.
 
 ## 🛠 Tech Stacks
-___
+
 ### Front-End
 - React.js, TypeScript
 - Vite, Zustand, TailwindCSS
@@ -43,7 +41,7 @@ ___
 - Figma
 
 ## 📌 Projects
-___
+
 <div style="display: flex; flex-wrap: wrap; gap: 16px;">
   <div style="flex: 1 1 320px; min-width: 280px; border: 1px solid #e5e7eb; border-radius: 12px; padding: 16px;">
     <h4>🎯 Tagmoa — 태그 기반 일정·작업 관리 앱</h4>
@@ -59,7 +57,7 @@ ___
 </div>
 
 ## 🏆 Achievements
-___
+
 <div style="display: flex; flex-wrap: wrap; gap: 16px;">
   <div style="flex: 1 1 260px; min-width: 220px; border: 1px solid #e5e7eb; border-radius: 12px; padding: 16px;">
     <h4>브론즈 · 실버 최우수상 · 은상</h4>
@@ -99,7 +97,7 @@ ___
 </div>
 
 ## 🎈 Experiences
-___
+
 <div style="display: flex; flex-wrap: wrap; gap: 16px;">
   <div style="flex: 1 1 300px; min-width: 260px; border: 1px solid #e5e7eb; border-radius: 12px; padding: 16px;">
     <h4>모바일 프로그래밍 TA</h4>
@@ -136,7 +134,7 @@ ___
 </div>
 
 ## 🎈 Extracurricular Activities
-___
+
 <div style="display: flex; flex-wrap: wrap; gap: 16px;">
   <div style="flex: 1 1 260px; min-width: 220px; border: 1px solid #e5e7eb; border-radius: 12px; padding: 16px;">
     <h4>알프스(ALPS) 알고리즘 동아리</h4>
@@ -171,13 +169,13 @@ ___
 </div>
 
 ## 🎓 Education
-___
+
 - 전북대학교 컴퓨터인공지능학부 (2023.03 ~ 재학)
   - 전공 학점 4.12 / 4.5
   - 전체 학점 4.17 / 4.5
 
 ## 🌱 Currently Learning & Growing
-___
+
 - 더 구조적인 코드 작성과 성능 개선
 - Android + Web 동시 개발 패턴
 - Flutter 멀티 플랫폼 아키텍처
