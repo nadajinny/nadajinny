@@ -6,7 +6,7 @@
 PORTFOLIO : [nadajinny's portfolio](https://erratic-radio-b5b.notion.site/ndjinny-2bc7402ed9eb80078c88d0eacbde18e1?source=copy_link)
 
 ## 📬 Contact & Channels
-- Email: ndjinny@gmail.com
+- Email: nadajinny@gmail.com
 - GitHub: [nadajinny](https://github.com/nadajinny)
 - Blog: [Velog – nadajinny](https://velog.io/@nadajinny)
 
