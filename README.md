@@ -59,30 +59,16 @@ PORTFOLIO : [nadajinny's portfolio](https://erratic-radio-b5b.notion.site/ndjinn
 
 ## 💼 Key Experiences
 
-<div style="display:flex; gap:16px; border:1px solid #ccc; padding:16px; border-radius:8px;">
-  <div style="flex:1;">
-     <big><strong>모바일 프로그래밍 TA</strong></big> <br> <small><small>(2025.03~2025.08)</small></small>
-  </div>
-  <div style="flex:3;">
-    <li>모바일 시스템에서 동작하는 응용 프로그램 제작 강의 </li>
-    <li>예제 과제 코드 제작 및 제출된 과제 채점</li>
-    <li>실습 진행 보조 및 질의 응답 참여</li>
-  </div>
-</div>
+- **모바일 프로그래밍 TA**<sup>(2025.03~2025.08)</sup>
+    - 모바일 시스템에서 동작하는 응용 프로그램 제작 강의
+    - 예제 과제 코드 제작 및 제출된 과제 채점
+    - 실습 진행 보조 및 질의 응답 참여
+- **MACS 연구실 학부연구생**<sup>(2025.01~ )</sup>
+    - 전북대 의료 AI 및 계산 과학 연구실 학부 연구생
+    - 개발 업무 담당
+    - 의료 AI를 응용한 프로그램 제작
+    - Full-Stack 기반의 응용 어플리케이션 개발
 
-<br>
-
-<div style="display:flex; gap:16px; border:1px solid #ccc; padding:16px; border-radius:8px;">
-  <div style="flex:1;">
-     <big><strong>MACS 연구실 학부연구생</strong></big> <br> <small><small>(2025.01~ )</small></small>
-  </div>
-  <div style="flex:3;">
-    <li>전북대 의료 AI 및 계산 과학 연구실 학부 연구생 </li>
-    <li>개발 업무 담당 </li>
-    <li>의료 AI를 응용한 프로그램 제작</li>
-    <li>Full-Stack 기반의 응용 어플리케이션 개발</li>
-  </div>
-</div>
 
 ## 🎈 Key Extracurricular Activities
 - **Alps 알고리즘 동아리**<sup>(2023.03~2024.12)</sup>
