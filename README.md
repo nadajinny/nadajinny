@@ -10,7 +10,7 @@ PORTFOLIO : [nadajinny's portfolio](https://erratic-radio-b5b.notion.site/ndjinn
 - GitHub: [nadajinny](https://github.com/nadajinny)
 - Blog: [Velog – nadajinny](https://velog.io/@nadajinny)
 
-## 💻 Front-End Developer
+## 💻 Front-End & Mobile Developer
 - 무엇이든 만들기로 마음먹으면 실제로 사용할 수 있을 때까지 포기하지 않는 개발자입니다.
 - 사용자 경험을 개선하는 플랫폼을 만드는 데에 관심이 많습니다.
 - 꾸준히 성장하며 나아가는 자세를 가장 중요하게 생각합니다.
@@ -19,7 +19,6 @@ PORTFOLIO : [nadajinny's portfolio](https://erratic-radio-b5b.notion.site/ndjinn
 
 <table style="text-align:center;">
   <thead style="display:none;">
-    <tr><th></th><th></th></tr>
   </thead>
   <tbody>
     <tr><td>Front-End</td>
