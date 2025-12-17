@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=nadajinny&fontSize=90)
 <br/>
-# 🎉 Hi, I’m nadajinny
-
 안녕하세요! 계속해서 도전하며 성장하는 개발자 nadajinny입니다. 
 <br>아이디어가 떠오르면 직접 구현해 실제 서비스로 발전시키며, 사용자 피드백을 바탕으로 더 나은 제품으로 빠르게 진화시키는 과정을 즐깁니다.
 
