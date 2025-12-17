@@ -1,4 +1,3 @@
-</br><br/>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=nadajinny&fontSize=90)
 <br/>
 # 🎉 Hi, I’m nadajinny
