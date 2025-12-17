@@ -1,9 +1,17 @@
+</br><br/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=nadajinny&fontSize=90)
+<br/>
 # 🎉 Hi, I’m nadajinny
 
 안녕하세요! 계속해서 도전하며 성장하는 개발자 nadajinny입니다. 
 <br>아이디어가 떠오르면 직접 구현해 실제 서비스로 발전시키며, 사용자 피드백을 바탕으로 더 나은 제품으로 빠르게 진화시키는 과정을 즐깁니다.
 
 PORTFOLIO : [nadajinny's portfolio](https://erratic-radio-b5b.notion.site/ndjinny-2bc7402ed9eb80078c88d0eacbde18e1?source=copy_link)
+
+
+## Overview
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadajinny&hide=jupyter+notebook&layout=compact&theme=blue-green)
+![Git State](https://github-readme-stats.vercel.app/api?username=nadajinny&&show_icons=true&theme=solarized-light&rank_icon=github)
 
 ## 📬 Contact & Channels
 - Email: nadajinny@gmail.com
